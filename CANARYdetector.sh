@@ -24,7 +24,7 @@ Techchip
 tput setaf 3
 echo ""
 echo "Canary Token Detector for Microsoft Word Document"
-echo "Version 1.0 | Author: TechChip (Anil Parashar) "
+echo "Version 1.0 | Author: RT whitehat security tech (Ritik trivedi) "
 echo ""
 tput sgr0
 read -p "Please Enter Word Document File name : " file
